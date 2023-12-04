@@ -1,0 +1,12 @@
+C:\Users\Uttam\source\repos\VoingPractical.Model\bin\Debug\net5.0\VoingPractical.Model.deps.json
+C:\Users\Uttam\source\repos\VoingPractical.Model\bin\Debug\net5.0\VoingPractical.Model.dll
+C:\Users\Uttam\source\repos\VoingPractical.Model\bin\Debug\net5.0\ref\VoingPractical.Model.dll
+C:\Users\Uttam\source\repos\VoingPractical.Model\bin\Debug\net5.0\VoingPractical.Model.pdb
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.AssemblyInfoInputs.cache
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.AssemblyInfo.cs
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.csproj.CoreCompileInputs.cache
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.dll
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\ref\VoingPractical.Model.dll
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.pdb
+C:\Users\Uttam\source\repos\VoingPractical.Model\obj\Debug\net5.0\VoingPractical.Model.csprojAssemblyReference.cache

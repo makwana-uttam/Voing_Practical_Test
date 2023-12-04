@@ -1,0 +1,15 @@
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\VoingPractical.DBAccess.deps.json
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\VoingPractical.DBAccess.dll
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\ref\VoingPractical.DBAccess.dll
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\VoingPractical.DBAccess.pdb
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\VoingPractical.Model.dll
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\bin\Release\net5.0\VoingPractical.Model.pdb
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.csprojAssemblyReference.cache
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.AssemblyInfoInputs.cache
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.AssemblyInfo.cs
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.csproj.CoreCompileInputs.cache
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.csproj.CopyComplete
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.dll
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\ref\VoingPractical.DBAccess.dll
+C:\Users\Uttam\source\repos\VoingPractical.DBAccess\obj\Release\net5.0\VoingPractical.DBAccess.pdb
